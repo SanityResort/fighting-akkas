@@ -1,6 +1,6 @@
 # Fighting Akkas
 
-Simply akka-http project. Allows you to create a fight with two fighters, start and watch it. Everything is very basic and the ui is pure text.
+Simple akka-http project. Allows you to create a fight with two fighters, start and watch it. Everything is very basic and the ui is pure text.
 
 Create a fight:
 
